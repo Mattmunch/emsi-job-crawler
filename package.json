@@ -1,0 +1,23 @@
+{
+  "name": "emsi-job-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mattmunch/emsi-job-crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mattmunch/emsi-job-crawler/issues"
+  },
+  "homepage": "https://github.com/Mattmunch/emsi-job-crawler#readme",
+  "dependencies": {
+    "puppeteer": "^7.0.4"
+  }
+}
